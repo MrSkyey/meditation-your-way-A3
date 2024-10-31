@@ -36,9 +36,9 @@ h1, h2, h3 {
 .navbar {
   flex-wrap: wrap;
   justify-content: space-around;
-  align-items: center;
+  text-align: center;
   gap: 5px;
-  text-size-adjust: large;
+  
 }
 
 .heading-text {
@@ -50,20 +50,28 @@ h1, h2, h3 {
 }
 
 .first-video {
-  padding-left: 30%;
+  padding-left: 32%;
 }
 .second-video {
-  padding-left: 35%;
+  padding-left: 32%;
 }
 
 .second-photo {
-  padding-left: 25%;
+  padding-left: 34%;
 }
 
 .third-photo {
-  padding-left: 35%;
+  padding-left: 36%;
 }
 
 .third-video {
-  padding-left: 35%;
+  padding-left: 32%;
+}
+
+.section_2  p, li {
+  text-align: center;
+}
+
+.forth-photo {
+  padding-left: 25%;
 }
