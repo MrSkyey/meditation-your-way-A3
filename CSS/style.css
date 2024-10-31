@@ -45,6 +45,13 @@ h1, h2, h3 {
   text-align: center;
 }
 
+.main.photo {
+  padding-left: 20%;
+}
+
 .first-video {
-  padding-left: 25%;
+  padding-left: 30%;
+}
+.second-video {
+  padding-left: 35%;
 }
