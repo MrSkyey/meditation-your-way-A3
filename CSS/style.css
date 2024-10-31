@@ -38,4 +38,13 @@ h1, h2, h3 {
   justify-content: space-around;
   align-items: center;
   gap: 5px;
+  text-size-adjust: large;
+}
+
+.heading-text {
+  text-align: center;
+}
+
+.first-video {
+  padding-left: 25%;
 }
