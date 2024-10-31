@@ -45,7 +45,7 @@ h1, h2, h3 {
   text-align: center;
 }
 
-.main.photo {
+.main-photo {
   padding-left: 20%;
 }
 
@@ -53,5 +53,17 @@ h1, h2, h3 {
   padding-left: 30%;
 }
 .second-video {
+  padding-left: 35%;
+}
+
+.second-photo {
+  padding-left: 25%;
+}
+
+.third-photo {
+  padding-left: 35%;
+}
+
+.third-video {
   padding-left: 35%;
 }
