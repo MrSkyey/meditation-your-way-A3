@@ -32,3 +32,10 @@ footer {
 h1, h2, h3 {
   text-align: center;
 }
+
+.navbar {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5px;
+}
