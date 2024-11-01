@@ -34,15 +34,17 @@ Features Left to Implement
 •	Fixing the problem with the Contact Form
 
 Testing
+
 Not enough time.
 
 Deployment
+
     The site was deployed to GitHub pages. The steps to deploy are as follows:
         In the GitHub repository, navigate to the Settings tab
         From the source section drop-down menu, select the Master Branch
         Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+The live link can be found here - https://github.com/MrSkyey/meditation-your-way-A3
 
 Credits
 
@@ -58,6 +60,7 @@ Photos;
 <a href="https://stocksnap.io/photo/woman-beautiful-GNCSP6OORP">Photo</a> by <a href="https://stocksnap.io/author/traveladventures">Travel Adventures</a> on <a href="https://stocksnap.io">StockSnap</a>
 
 Videos;
+
 The Fit Mother Project:  https://www.youtube.com/@FitMotherProject
 
 TEDx Talks:  https://www.youtube.com/@TEDx
